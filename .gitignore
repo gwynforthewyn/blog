@@ -4,3 +4,7 @@
 *.egg-info/
 venv
 **/.idea/**
+**/.DS_Store
+**/.terraform.lock.hcl
+**/terraform.tfstate*
+**/.terraform/*
