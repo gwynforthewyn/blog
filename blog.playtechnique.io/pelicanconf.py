@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'lovely gwyn'
+AUTHOR = 'gwyn'
 SITENAME = 'normal human life'
-SITEURL = ''
+SITEURL = 'http://blog.playtechnique.io'
 
 PATH = 'content'
 

@@ -7,10 +7,10 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "playtechique-terraform-states"
+    bucket  = "playtechique-terraform-states"
     encrypt = true
-    key = "bloggo-not-doggo/"
-    region = "us-east-2"
+    key     = "bloggo-not-doggo/"
+    region  = "us-east-2"
   }
 }
 
