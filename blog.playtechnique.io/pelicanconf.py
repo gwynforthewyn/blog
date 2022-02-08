@@ -22,8 +22,8 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'https://twitter.com/gwynforthewyn'),
+          ('Github', 'https://github.com/gwynforthewyn'),)
 
 DEFAULT_PAGINATION = False
 
